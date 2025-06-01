@@ -156,9 +156,11 @@ This project includes additional logic improvements, bug fixes, and extensibilit
 
 ## 🚀 Try It Yourself
 
+```bash
 git clone https://github.com/Sean-Randall/Dungeon-Of-The-Silver-Key.git
 cd Dungeon-Of-The-Silver-Key
 python main.py
+```
 
 🧠 “That is not dead which can eternal lie...”
 And with strange aeons, even this humble terminal game may awaken.
